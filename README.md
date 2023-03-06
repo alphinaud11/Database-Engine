@@ -1,4 +1,4 @@
-# Database Engine
+# Database Enginea
 An implementation of a database engine with support for B+ trees and R trees indexing.
 
 ## Supported Functionalities
